@@ -26,7 +26,7 @@ The following Power Bi features were integrated:
 - Modelling
 - Filters
 
-## Daata sourcing
+## Data sourcing
 An imaginary shopping data set
 
 ## Data Transformation
